@@ -1,0 +1,26 @@
+---
+title: "Valuation Package"
+author: "Mojmir Sabolovic"
+date: "25 4 2018"
+output: html_document
+---
+Arguments of function:
+CF...cash flow, dividends or other income equivalents in monetery units
+r...interest rate
+g1...growth in first stage
+g2...growth in second stage for terminal value estimation
+t1...length of the first stage
+
+```{r}
+DCFvalue<-function(CF,t1,g1,g2) {
+  body
+}
+```
+
+
+```{r}
+my_fun<-function(arg1,arg2) {
+  body
+}
+```
+
